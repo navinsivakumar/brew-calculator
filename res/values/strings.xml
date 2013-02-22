@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brew Calculator</string>
+    <string name="action_settings">Settings</string>
+	<string name="edit_dose">Dose (g)</string>
+	<string name="edit_water">Water (g)</string>
+	<string name="edit_tds">TDS (%)</string>
+	<string name="label_yield">Yield:</string>
+	<string name="button_calculate">Calculate</string>
+	<string name="radio_drip">Drip</string>
+	<string name="radio_immersion">Immersion</string>
+	<string name="label_dose">Dose (g):</string>
+	<string name="label_water">Water (g):</string>
+	<string name="label_tds">TDS (%):</string>
+	<string name="view_yield">Enter data and click Calculate</string>
+</resources>
